@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "可乐牌可乐",
+    "description": "当你喝下它时会获得快乐",
+    "buyPrice": 3,
+    "sellPrice": 1,
+    "sprite": "Sprites/Items/Cola",
+    "hp": 0,
+    "aggressivity": 0
+  },
+  {
+    "id": 2,
+    "name": "生命药水",
+    "description": "增加50点生命值",
+    "buyPrice": 20,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Life_Elixir",
+    "hp": 50,
+    "aggressivity": 0
+  },
+  {
+    "id": 3,
+    "name": "神奇药水",
+    "description": "恢复全部的生命值",
+    "buyPrice": 50,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Magic_Elixir",
+    "hp": 100,
+    "aggressivity": 0
+  },
+  {
+    "id": 4,
+    "name": "杨桃",
+    "description": "美味多汁的热带水果，恢复20点生命值",
+    "buyPrice": 10,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Starfruit",
+    "hp": 20,
+    "aggressivity": 0
+  },
+  {
+    "id": 5,
+    "name": "蜂蜜",
+    "description": "蜜蜂们产出的甜汁，恢复20点生命值",
+    "buyPrice": 10,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Honey",
+    "hp": 20,
+    "aggressivity": 0
+  },
+  {
+    "id": 6,
+    "name": "蓝莓",
+    "description": "一种据说拥有多种益处的浆果，恢复10点生命值",
+    "buyPrice": 8,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Blueberry",
+    "hp": 10,
+    "aggressivity": 0
+  },
+  {
+    "id": 7,
+    "name": "甜瓜",
+    "description": "凉爽香甜的夏日食品，恢复30点生命值",
+    "buyPrice": 15,
+    "sellPrice": 3,
+    "sprite": "Sprites/Items/Melon",
+    "hp": 30,
+    "aggressivity": 0
+  }
+]
